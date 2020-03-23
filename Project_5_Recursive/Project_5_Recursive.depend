@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1539235556 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_5\project_5_recursive\concordance_recursive.cpp
+	"Concordance_Recursive.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+
+1539235556 c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_5\project_5_recursive\concordance_recursive.h
+	<string>
+
+1539235556 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_5\project_5_recursive\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"Concordance_Recursive.h"
+
