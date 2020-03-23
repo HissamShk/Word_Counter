@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1538662581 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_4\project_4\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstring>
+	"concordance.h"
+
+1539114396 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_4\project_4\concordance.cpp
+	"Concordance.h"
+	<iostream>
+	<cstring>
+
+1539098137 c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_4\project_4\concordance.h
+	<string>
+
